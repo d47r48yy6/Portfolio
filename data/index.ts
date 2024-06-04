@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "Crafting spells of creativity for Clients, weaving dreams into reality. ",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "Time zones fade when wizardry connects.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Wizardry meets technology, in the hands of passion.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently building a UPPCL(PMS) Web application",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,35 +72,35 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      title: "Project - 1 ",
+      des: "Under Construction",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
+      link: "underconstruction...!",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "Employe-Payroll-System",
+      des: "Under Construction",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "/ui.yoom.com",
+      link: "UnderConstruction...!",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+      title: "E-Commerce",
+      des: "Under Construction",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
+      link: "#####",
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+      title: "Smart-Contract Legal Aggrements",
+      des: "Based On BlockChain Concept",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "/ui.apple.com",
+      link: "/#####",
     },
   ];
   
