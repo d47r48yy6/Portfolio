@@ -173,8 +173,8 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Java Developer Intern",
+      desc: "Optimized performance and reliability of payroll software through Java development.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
@@ -183,19 +183,19 @@ export const navItems = [
       title: "Hackathon",
       desc: "Collaborating with diverse teams to create impactful, real-world solutions.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
+      thumbnail: "/exp3.svg",
     },
     {
       id: 3,
       title: "Freelance Project",
       desc: "Managing diverse projects, balancing deadlines, and exceeding client expectations.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
+      thumbnail: "/exp2.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Developed Personal Projects",
+      desc: "Developed personal projects as a means of continuous learning and growth.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
