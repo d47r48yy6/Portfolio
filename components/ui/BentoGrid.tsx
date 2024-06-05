@@ -10,7 +10,7 @@ import Lottie from "react-lottie";
 import { BackgroundGradientAnimation } from "./GradientBg";
 import GridGlobe from "./GridGlobe";
 import animationData from "@/data/confetti.json";
-import { cn } from "@/utils/cn";
+import { cn } from "@/lib/utils";
 import MagicButton from "./MagicButton";
 
 

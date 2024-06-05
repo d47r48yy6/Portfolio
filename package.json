@@ -15,6 +15,7 @@
     "@tabler/icons-react": "^3.5.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.10",
+    "http-assert": "^1.5.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.3",
     "next-themes": "^0.3.0",
@@ -28,6 +29,7 @@
     "three-globe": "^2.31.0"
   },
   "devDependencies": {
+    "@types/http-assert": "^1.5.5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
