@@ -174,14 +174,14 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Java Developer     Intern",
+      title: "Java Developer Intern",
       desc: "Optimized performance and reliability of payroll software through Java development.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Hackathon",
+      title: "Hackath.   on",
       desc: "Collaborating with diverse teams to create impactful, real-world solutions.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
